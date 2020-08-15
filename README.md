@@ -28,7 +28,7 @@
 | [Linux开发环境及应用](./Computer-Science-and-Technology/Linux.md) | 蒋砚军 | 没有期中；期末考试 | 四次实验 | 85+ |
 | [信息与知识获取](./Computer-Science-and-Technology/Information-and-Knowledge-Acquisition.md) | 李蕾 | 没有期中；三次大作业 | 三次大作业 | 90+ |
 | [机器学习](./Computer-Science-and-Technology/Machine-Learning.md) | 袁彩霞，鲁鹏<br />董譞，冯方向 | 没有期中；四次大作业 | 四次大作业 | 90+ |
-| [下一代Internet技术与协议](./Computer-Science-and-Technology/Technologies-and-Protocols-of-NGI.md) | 郭岗 | 没有期中；往年期末开卷考，今年(2020)写论文 | 一次小作业，两次实验 | 90+ |
+| [下一代Internet技术与协议](./Computer-Science-and-Technology/Technologies-and-Protocols-of-NGI.md) | 郭岗 | 没有期中；<br />往年期末开卷考，疫情写论文 | 一次小作业，两次实验 | 90+ |
 | | | | | |
 |                                                              |          |                      |                |      |
 
