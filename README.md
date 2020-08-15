@@ -16,10 +16,11 @@
 
 ## 计算机科学与技术
 
-| 课程名称                                                     | 任课教师 | 考核方式             | 作业情况       | 成绩 |
+| 课程名称 | 任课教师 | 考核方式 | 作业情况 | 成绩 |
 | ------------------------------------------------------------ | -------- | -------------------- | -------------- | ---- |
-| [程序设计实践](./Computer-Science-and-Technology/The-Practice-of-Programming.md) | 闫丹凤，王玉龙 | 没有期中；期末大作业 | 无平时作业 | 85+ |
-| [Python程序设计](./Computer-Science-and-Technology/Python-Programming.md) | 杨亚     | 没有期中；期末大作业 | 较多，每周一次 | 90+  |
+| [程序设计实践](./Computer-Science-and-Technology/The-Prictice-of-Programming.md) | 闫丹凤，王玉龙 | 没有期中；期末大作业 | 无平时作业 | 85+ |
+| [Python程序设计](./Computer-Science-and-Technology/Python-Programming.md) | 杨亚 | 没有期中；期末大作业 | 较多，每周一次 | 90+ |
+| [人工智能原理](./Computer-Science-and-Technology/Principles-of-Artificial-Intelligence.md) | 邓芳，王晓茹 | 没有期中；期末开卷考试+实验 | 1次小测，无平时作业 | 85+ |
 | [Linux开发环境及应用](./Computer-Science-and-Technology/Linux.md) | 蒋砚军 | 没有期中；期末大作业 | 四次实验 | 90+ |
 | [信息与知识获取](./Computer-Science-and-Technology/Information-and-Knowledge-Acquisition.md) | 李蕾 | 没有期中；三次大作业 | 三次大作业 | 90+ |
 | [机器学习](./Computer-Science-and-Technology/Machine-Learning.md) | 袁彩霞，鲁鹏<br />董譞，冯方向 | 没有期中；四次大作业 | 四次大作业 | 90+ |
