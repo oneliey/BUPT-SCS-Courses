@@ -22,7 +22,7 @@
 
 | 课程名称 | 任课教师 | 考核方式 | 作业情况 | 成绩 |
 | ------------------------------------------------------------ | -------- | -------------------- | -------------- | ---- |
-| [程序设计实践](./Computer-Science-and-Technology/The-Prictice-of-Programming.md) | 闫丹凤，王玉龙 | 没有期中；期末大作业 | 无平时作业 | 85+ |
+| [程序设计实践](./Computer-Science-and-Technology/The-Practice-of-Programming.md) | 闫丹凤，王玉龙 | 没有期中；期末大作业 | 无平时作业 | 85+ |
 | [Python程序设计](./Computer-Science-and-Technology/Python-Programming.md) | 杨亚 | 没有期中；期末大作业 | 较多，每周一次 | 90+ |
 | [人工智能原理](./Computer-Science-and-Technology/Principles-of-Artificial-Intelligence.md) | 邓芳，王晓茹 | 没有期中；期末开卷考试+实验 | 1次小测，无平时作业 | 85+ |
 | [Linux开发环境及应用](./Computer-Science-and-Technology/Linux.md) | 蒋砚军 | 没有期中；期末考试 | 四次实验 | 90+ |
