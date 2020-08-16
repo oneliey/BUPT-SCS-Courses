@@ -1,6 +1,6 @@
 # BUPT-SCS-Courses
 
-巴普特计院选修课指北 :point_up:
+巴普特（北京邮电大学）计院（计算机学院）选修课指北 :point_up:
 
 发动巴普特开源力量 :muscle: ，方便同学们了解各专业选修课程 :smiley:
 
@@ -25,17 +25,19 @@
 
 ## 计算机科学与技术
 
-| 课程名称                                                                                           | 任课教师                       | 考核方式                                   | 作业情况             | 成绩 |
-| -------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------ | -------------------- | ---- |
-| [程序设计实践](./Computer-Science-and-Technology/The-Practice-of-Programming.md)                   | 闫丹凤，王玉龙                 | 没有期中；期末大作业                       | 无平时作业           | 85+  |
-| [Python程序设计](./Computer-Science-and-Technology/Python-Programming.md)                          | 杨亚                           | 没有期中；期末大作业                       | 较多，每周一次       | 90+  |
-| [人工智能原理](./Computer-Science-and-Technology/Principles-of-Artificial-Intelligence.md)         | 邓芳，王晓茹                   | 没有期中；期末开卷考试+实验                | 1次小测，无平时作业  | 85+  |
-| [Linux开发环境及应用](./Computer-Science-and-Technology/Linux.md)                                  | 蒋砚军                         | 没有期中；期末考试                         | 四次实验             | 85+  |
-| [信息与知识获取](./Computer-Science-and-Technology/Information-and-Knowledge-Acquisition.md)       | 李蕾                           | 没有期中；三次大作业                       | 三次大作业           | 90+  |
-| [机器学习](./Computer-Science-and-Technology/Machine-Learning.md)                                  | 袁彩霞，鲁鹏<br />董譞，冯方向 | 没有期中；四次大作业                       | 四次大作业           | 90+  |
-| [下一代Internet技术与协议](./Computer-Science-and-Technology/Technologies-and-Protocols-of-NGI.md) | 郭岗                           | 没有期中；<br />往年期末开卷考，疫情写论文 | 一次小作业，两次实验 | 90+  |
-|                                                                                                    |                                |                                            |                      |      |
-|                                                                                                    |                                |                                            |                      |      |
+*备注*：耗时为10分制，分值越高，作业耗时越长
+
+| 课程名称                                                     | 任课教师                       | 考核方式                                   | 平时作业情况        | 成绩 | 耗时 |
+| ------------------------------------------------------------ | ------------------------------ | ------------------------------------------ | ------------------- | ---- | ---- |
+| [程序设计实践](./Computer-Science-and-Technology/The-Practice-of-Programming.md) | 闫丹凤，王玉龙                 | 没有期中；无期末                           | 无平时作业          | 85+  | 6    |
+| [Python程序设计](./Computer-Science-and-Technology/Python-Programming.md) | 杨亚                           | 没有期中；期末大作业                       | 每周1次             | 90+  | 9    |
+| [人工智能原理](./Computer-Science-and-Technology/Principles-of-Artificial-Intelligence.md) | 邓芳，王晓茹                   | 没有期中；期末开卷考试+1次实验             | 1次小测，无平时作业 | 85+  | 2    |
+| [Linux开发环境及应用](./Computer-Science-and-Technology/Linux.md) | 蒋砚军                         | 没有期中；期末闭卷考试                     | 4次实验             | 85+  |      |
+| [信息与知识获取](./Computer-Science-and-Technology/Information-and-Knowledge-Acquisition.md) | 李蕾                           | 没有期中；无期末                           | 3次大作业           | 90+  |      |
+| [机器学习](./Computer-Science-and-Technology/Machine-Learning.md) | 袁彩霞，鲁鹏<br />董譞，冯方向 | 没有期中；无期末                           | 4次大作业           | 90+  |      |
+| [下一代Internet技术与协议](./Computer-Science-and-Technology/Technologies-and-Protocols-of-NGI.md) | 郭岗                           | 没有期中；<br />往年期末开卷考，疫情写论文 | 1次小作业，2次实验  | 90+  |      |
+| 大数据技术基础                                               | 鄂海红                         | 没有期中；期末大作业                       | 6次小作业，6次实验  | 90+  | 8    |
+|                                                              |                                |                                            |                     |      |      |
 
 
 
