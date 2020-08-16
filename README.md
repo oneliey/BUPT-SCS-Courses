@@ -1,6 +1,6 @@
 # BUPT-SCS-Courses
 
-巴普特计院选修课指北 :point_up:
+巴普特（北京邮电大学）计院（计算机学院）选修课指北 :point_up:
 
 发动巴普特开源力量 :muscle: ，方便同学们了解各专业选修课程 :smiley:
 
