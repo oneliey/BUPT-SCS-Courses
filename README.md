@@ -37,6 +37,9 @@
 | [下一代Internet技术与协议](./Computer-Science-and-Technology/Technologies-and-Protocols-of-NGI.md) | 郭岗                           | 没有期中；<br />往年期末开卷考，疫情写论文 | 1次小作业，2次实验  | 90+  | 5    |
 | 大数据技术基础                                               | 鄂海红                         | 没有期中；期末大作业                       | 6次小作业，6次实验  | 90+  | 8    |
 | [计算机网络技术实践](./Computer-Science-and-Technology/The-Practice-of-Computer-Network-Technology.md) | 张海旸                         | 无考试；实验+实验报告                      | 5次实验(?)          | 85+  | 8    |
+| [自然语言处理](./Computer-Science-and-Technology/Natural-Language-Processing.md) | 袁彩霞                         | 期末考试+期末大作业    | 一次期末大作业          | 90+  | 6    |
+| [服务科学与服务工程概论](./Computer-Science-and-Technology/Introduction-To-Service-Science-And-Service-Engineering.md) | 李劼             | 点名+期末论文+论文开题报告         | 无     | 90+  | 4    |
+| [面向对象程序设计实践 (Java)](./Computer-Science-and-Technology/Objected-Oriented-Programming(JAVA).md) | 房鸣(?)                         | 期中考试+期末大作业             | 期末大作业     | 80-85  | 8    |
 
 
 
