@@ -25,20 +25,21 @@
 
 ## 计算机科学与技术
 
-| 课程名称                                                                                                               | 任课教师                       | 考核方式                                | 平时作业情况        | 成绩  | 时间 |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------ | --------------------------------------- | ------------------- | ----- | ---- |
-| [程序设计实践](./Computer-Science-and-Technology/The-Practice-of-Programming.md)                                       | 闫丹凤，王玉龙                 | 无期中；期末大作业                      | 无平时作业          | 85+   | 6    |
-| [Python程序设计](./Computer-Science-and-Technology/Python-Programming.md)                                              | 杨亚                           | 无期中；期末大作业                      | 每周1次             | 90+   | 9    |
-| [人工智能原理](./Computer-Science-and-Technology/Principles-of-Artificial-Intelligence.md)                             | 邓芳，王晓茹                   | 无期中；期末开卷考试+1次实验            | 1次小测，无平时作业 | 85+   | 2    |
-| [Linux开发环境及应用](./Computer-Science-and-Technology/Linux.md)                                                      | 蒋砚军                         | 无期中；期末闭卷考试                    | 4次实验             | 85+   | 6    |
-| [信息与知识获取](./Computer-Science-and-Technology/Information-and-Knowledge-Acquisition.md)                           | 李蕾                           | 无期中；无期末                          | 3次大作业           | 90+   | 3    |
-| [机器学习](./Computer-Science-and-Technology/Machine-Learning.md)                                                      | 袁彩霞，鲁鹏<br />董譞，冯方向 | 无期中；疫情无期末<br />往年期末考试    | 4次大作业           | 90+   | 7    |
-| [下一代Internet技术与协议](./Computer-Science-and-Technology/Technologies-and-Protocols-of-NGI.md)                     | 郭岗                           | 无期中；疫情写论文<br />往年期末开卷考  | 1次小作业，2次实验  | 90+   | 5    |
-| 大数据技术基础                                                                                                         | 鄂海红                         | 无期中；期末大作业                      | 6次小作业，6次实验  | 90+   | 8    |
-| [计算机网络技术实践](./Computer-Science-and-Technology/The-Practice-of-Computer-Network-Technology.md)                 | 张海旸                         | 无考试；实验+实验报告                   | 6次实验，2次重要    | 85+   | 8    |
-| [自然语言处理](./Computer-Science-and-Technology/Natural-Language-Processing.md)                                       | 袁彩霞                         | 期末考试+期末大作业                     | 1次期末大作业       | 90+   | 6    |
+| 课程名称                                                     | 任课教师                       | 考核方式                                | 平时作业情况        | 成绩  | 时间 |
+| ------------------------------------------------------------ | ------------------------------ | --------------------------------------- | ------------------- | ----- | ---- |
+| [程序设计实践](./Computer-Science-and-Technology/The-Practice-of-Programming.md) | 闫丹凤，王玉龙                 | 无期中；期末大作业                      | 无平时作业          | 85+   | 6    |
+| [Python程序设计](./Computer-Science-and-Technology/Python-Programming.md) | 杨亚                           | 无期中；期末大作业                      | 每周1次             | 90+   | 9    |
+| [人工智能原理](./Computer-Science-and-Technology/Principles-of-Artificial-Intelligence.md) | 邓芳，王晓茹                   | 无期中；期末开卷考试+1次实验            | 1次小测，无平时作业 | 85+   | 2    |
+| [Linux开发环境及应用](./Computer-Science-and-Technology/Linux.md) | 蒋砚军                         | 无期中；期末闭卷考试                    | 4次实验             | 85+   | 6    |
+| [信息与知识获取](./Computer-Science-and-Technology/Information-and-Knowledge-Acquisition.md) | 李蕾                           | 无期中；无期末                          | 3次大作业           | 90+   | 3    |
+| [机器学习](./Computer-Science-and-Technology/Machine-Learning.md) | 袁彩霞，鲁鹏<br />董譞，冯方向 | 无期中；疫情无期末<br />往年期末考试    | 4次大作业           | 90+   | 7    |
+| [下一代Internet技术与协议](./Computer-Science-and-Technology/Technologies-and-Protocols-of-NGI.md) | 郭岗                           | 无期中；疫情写论文<br />往年期末开卷考  | 1次小作业，2次实验  | 90+   | 5    |
+| 大数据技术基础                                               | 鄂海红                         | 无期中；期末大作业                      | 6次小作业，6次实验  | 90+   | 8    |
+| [计算机网络技术实践](./Computer-Science-and-Technology/The-Practice-of-Computer-Network-Technology.md) | 张海旸                         | 无考试；实验+实验报告                   | 6次实验，2次重要    | 85+   | 8    |
+| [自然语言处理](./Computer-Science-and-Technology/Natural-Language-Processing.md) | 袁彩霞                         | 期末考试+期末大作业                     | 1次期末大作业       | 90+   | 6    |
 | [服务科学与服务工程概论](./Computer-Science-and-Technology/Introduction-To-Service-Science-And-Service-Engineering.md) | 李劼                           | 无期中；点名<br />期末论文论文+开题报告 | 无平时作业          | 90+   | 4    |
-| [面向对象程序设计实践 (Java)](./Computer-Science-and-Technology/Objected-Oriented-Programming(JAVA).md)                | 房鸣                           | 期中考试；期末大作业                    | 1次期末大作业       | 80-85 | 8    |
+| [面向对象程序设计实践 (Java)](./Computer-Science-and-Technology/Objected-Oriented-Programming(JAVA).md) | 房鸣                           | 期中考试；期末大作业                    | 1次期末大作业       | 80-85 | 8    |
+| [移动互联网技术及应用](./Computer-Science-and-Technology/Mobile-Internet-Technology-and-Application.md) | 段鹏瑞                         | 无期中；平时作业；期末大作业            | 7次编程作业         | 90+   | 7    |
 
 ## 网络工程
 
