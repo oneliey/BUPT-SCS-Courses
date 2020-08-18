@@ -81,6 +81,6 @@
 ## 培养方案
 
 1. [计算机学院培养方案17版（含实验班）](./Cultivation/17-SCS.pdf)（大改）
-2. [计算机学院培养方案18版（含实验班）](./Cultivation/18-SCS.pdf)
-3. [计算机学院培养方案19版（含实验班）](./Cultivation/19-SCS.pdf)
-4. [软件工程培养方案17版](./Cultivation/17-SE.pdf)
+2. [软件学院培养方案17版](./Cultivation/17-SSE.pdf)
+3. [计算机学院培养方案18版（含实验班）](./Cultivation/18-SCS.pdf)
+4. [计算机学院培养方案19版（含实验班）](./Cultivation/19-SCS.pdf)
