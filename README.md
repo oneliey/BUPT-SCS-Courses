@@ -70,9 +70,9 @@
 
 | 课程名称 | 任课教师 | 考核方式 | 作业量 | 成绩 | 时间 |
 | -------- | -------- | -------- | ------ | ---- | ---- |
-|          |          |          |        |      |      |
-|          |          |          |        |      |      |
-|          |          |          |        |      |      |
+|[软件测试技术](./Software-Engineering/Software-Testing-Techniques.md)|袁玉宇|7次小作业和开卷考试|总量大但时间长，简单且有趣味性|90+||
+|[软件过程改进](./Software-Engineering/Software-Process-Improvement.md)|袁玉宇|疫情期间只有大作业，平时可能还有开卷考|无额外作业|90+||
+|[通信协议软件设计](./Software-Engineering/Software-Design-of-Communitation-Protocol.md)|雷友珣|3次大实验，闭卷考试|难度大，繁琐|80+|      |
 |          |          |          |        |      |      |
 |          |          |          |        |      |      |
 |          |          |          |        |      |      |
