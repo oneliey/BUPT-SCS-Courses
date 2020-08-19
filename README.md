@@ -42,6 +42,7 @@
 | [服务科学与服务工程概论](./Computer-Science-and-Technology/Introduction-To-Service-Science-And-Service-Engineering.md) | 李劼                           | 无期中；点名<br />期末论文论文+开题报告 | 无平时作业          | 90+   | 4    |
 | [移动互联网技术及应用](./Computer-Science-and-Technology/Mobile-Internet-Technology-and-Application.md) | 段鹏瑞                         | 无期中；平时作业；期末大作业            | 7次编程作业         | 90+   | 7    |
 | [自然语言处理](./Computer-Science-and-Technology/Natural-Language-Processing.md) | 袁彩霞                         | 期末考试+期末大作业                     | 1次期末大作业       | 90+   | 6    |
+| [量子计算导论](./Computer-Science-and-Technology/Introduction-of-Quantum-Computation.md) | 高飞                         | 期中一次论文翻译；期末一次写论文                     | 两次作业     | 90+   | 4    |
 
 ## 网络工程
 
