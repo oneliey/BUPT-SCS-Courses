@@ -73,10 +73,10 @@
 |[软件测试技术](./Software-Engineering/Software-Testing-Techniques.md)|袁玉宇|7次小作业；期末开卷考试|总量大但时间长，简单且有趣味性|90+||
 |[软件过程改进](./Software-Engineering/Software-Process-Improvement.md)|袁玉宇|疫情只有大作业，往常可能开卷考|无额外作业|90+||
 |[通信协议软件设计](./Software-Engineering/Software-Design-of-Communitation-Protocol.md)|雷友珣|3次大实验，期末闭卷考试|难度大，繁琐|80+|      |
-|          |          |          |        |      |      |
-|          |          |          |        |      |      |
-|          |          |          |        |      |      |
-|          |          |          |        |      |      |
+|[软件项目管理](./Software-Engineering/Software-Project-Management.md)|韩万江|大作业+开卷考试|难度不大，但繁琐|85+||
+|[移动终端软件开发技术](./Software-Engineering/Mobile-Software-Development-Techniques.md)|谢坤|仅大作业|量多但简单|90+||
+|[电子商务系统](./Software-Engineering/E-Commerce-System.md)|牛坤|疫情只有作业，往常闭卷考|小且简单|85+||
+|[大数据原理与技术](./Software-Engineering/Bigdata-Principle-and-Techniques.md)|孙鹏飞|大作业|量少，稍有难度|90+||
 
 ## 培养方案
 
