@@ -28,7 +28,7 @@
 
 | 课程名称                                                     | 任课教师                       | 考核方式                                | 平时作业情况        | 成绩  | 时间 |
 | ------------------------------------------------------------ | ------------------------------ | --------------------------------------- | ------------------- | ----- | ---- |
-| [面向对象程序设计实践 (C++)](./Computer-Science-and-Technology/Objected-Oriented-Programming(C++).md) | 胡博                           | 多次小作业 + 大作业                    | 1次期末大作业       | 90+ | 8    |
+| [面向对象程序设计实践 (C++)](./Computer-Science-and-Technology/Objected-Oriented-Programming(C++).md) | 胡博；双锴，王红熳                       | 多次小作业 + 大作业                    | 1次期末大作业       | 90+ | 8    |
 | [面向对象程序设计实践 (Java)](./Computer-Science-and-Technology/Objected-Oriented-Programming(JAVA).md) | 房鸣                           | 期中考试；期末大作业                    | 1次期末大作业       | 80-85 | 8    |
 | [程序设计实践](./Computer-Science-and-Technology/The-Practice-of-Programming.md) | 闫丹凤，王玉龙                 | 无期中；期末大作业                      | 无平时作业          | 85+   | 6    |
 | [Python程序设计](./Computer-Science-and-Technology/Python-Programming.md) | 杨亚                           | 无期中；期末大作业                      | 每周1次             | 90+   | 9    |
