@@ -63,7 +63,7 @@
 | ---------------------------------------------------------------------------------- | -------- | -------------------------------- | ---------------------- | ---- | ---- |
 | [Linux开发环境及应用](./Data-Science-and-Big-Data-Technology/Linux.md)             | 蒋砚军   | 4次作业和期末考试                | 作业内容比较少         | 85+  |      |
 | [数字图像处理](./Data-Science-and-Big-Data-Technology/Digital-Image-Processing.md) | 明安龙   | 3次小作业，3次期末实验和一个论文 | 作业难度较大，比较繁琐 |      |      |
-|                                                                                    |          |                                  |                        |      |      |
+| [分布式计算与云计算](Data-Science-and-Big-Data-Technology/Distributed-and-cloud-computing.md)| 李劼 | 1次作业和期末论文| 作业难度很低|   95+ |   2   |
 |                                                                                    |          |                                  |                        |      |      |
 |                                                                                    |          |                                  |                        |      |      |
 |                                                                                    |          |                                  |                        |      |      |
