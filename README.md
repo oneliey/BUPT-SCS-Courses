@@ -62,7 +62,6 @@
 | 课程名称                                                     | 任课教师  | 考核方式                              | 作业量                 | 成绩 | 时间 |
 | ------------------------------------------------------------ | --------- | ------------------------------------- | ---------------------- | ---- | ---- |
 | [Linux开发环境及应用](./Data-Science-and-Big-Data-Technology/Linux.md) | 蒋砚军    | 4次作业和期末考试                     | 作业内容比较少         | 85+  |      |
-| [数字图像处理](./Data-Science-and-Big-Data-Technology/Digital-Image-Processing.md) | 明安龙    | 3次小作业，3次期末实验和一个论文      | 作业难度较大，比较繁琐 |      |      |
 | [网络科学](./Data-Science-and-Big-Data-Technology/Network-Science.md) | 白婷 吴斌 | 随堂测验，期末考试【2020年为小组pre】 |                        | 85+  |      |
 | [计算机图形学](./Data-Science-and-Big-Data-Technology/CG.md) | 马华东    | 两个大作业，期末考试                  |                        | 70+  |      |
 | [数字图像处理](./Data-Science-and-Big-Data-Technology/Digital-Image-Processing.md) | 明安龙   | 3次小作业，3次期末实验和一个论文 | 作业难度较大，比较繁琐 |      |      |
