@@ -59,15 +59,15 @@
 
 ## 数据科学与大数据技术
 
-| 课程名称                                                                                      | 任课教师  | 考核方式                                | 作业量                 | 成绩 | 时间 |
-| --------------------------------------------------------------------------------------------- | --------- | --------------------------------------- | ---------------------- | ---- | ---- |
-| [Linux开发环境及应用](./Computer-Science-and-Technology/Linux.md)                             | 蒋砚军    | 无期中；期末闭卷考试                    | 4次实验                | 85+  | 6    |
-| [网络科学](./Data-Science-and-Big-Data-Technology/Network-Science.md)                         | 白婷 吴斌 | 随堂测验，期末考试<br />2020年为小组pre |                        | 85+  |      |
-| [计算机图形学](./Data-Science-and-Big-Data-Technology/CG.md)                                  | 马华东    | 2个大作业，期末闭卷考试                 |                        | 70+  |      |
-| [数字图像处理](./Data-Science-and-Big-Data-Technology/Digital-Image-Processing.md)            | 明安龙    | 3次小作业，期末3次实验和1个论文         | 作业难度较大，比较繁琐 |      |      |
+| 课程名称                                                     | 任课教师  | 考核方式                                | 作业量                 | 成绩 | 时间 |
+| ------------------------------------------------------------ | --------- | --------------------------------------- | ---------------------- | ---- | ---- |
+| [Linux开发环境及应用](./Computer-Science-and-Technology/Linux.md) | 蒋砚军    | 无期中；期末闭卷考试                    | 4次实验                | 85+  | 6    |
+| [网络科学](./Data-Science-and-Big-Data-Technology/Network-Science.md) | 白婷 吴斌 | 随堂测验，期末考试<br />2020年为小组pre |                        | 85+  |      |
+| [计算机图形学](./Data-Science-and-Big-Data-Technology/CG.md) | 马华东    | 2个大作业，期末闭卷考试                 |                        | 70+  |      |
+| [数字图像处理](./Data-Science-and-Big-Data-Technology/Digital-Image-Processing.md) | 明安龙    | 3次小作业，期末3次实验和1个论文         | 作业难度较大，比较繁琐 | 70+  | 6    |
 | [分布式计算与云计算](Data-Science-and-Big-Data-Technology/Distributed-and-cloud-computing.md) | 李劼      | 1次作业，期末论文                       | 作业难度很低           | 95+  | 2    |
-|                                                                                               |           |                                         |                        |      |      |
-|                                                                                               |           |                                         |                        |      |      |
+|                                                              |           |                                         |                        |      |      |
+|                                                              |           |                                         |                        |      |      |
 
 ## 软件工程
 
