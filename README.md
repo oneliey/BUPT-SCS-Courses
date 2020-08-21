@@ -42,6 +42,8 @@
 | 大数据技术基础                                                                                                         | 鄂海红                                 | 无期中；期末大作业                       | 6次小作业，6次实验  | 90+   | 8    |
 | [服务科学与服务工程概论](./Computer-Science-and-Technology/Introduction-To-Service-Science-And-Service-Engineering.md) | 李劼                                   | 无期中；点名<br />期末论文论文+开题报告  | 无平时作业          | 90+   | 4    |
 | [移动互联网技术及应用](./Computer-Science-and-Technology/Mobile-Internet-Technology-and-Application.md)                | 段鹏瑞                                 | 无期中；期末大作业                       | 7次编程作业         | 90+   | 7    |
+| [网络科学](./Data-Science-and-Big-Data-Technology/Network-Science.md)                                                  | 白婷 吴斌                              | 随堂测验，期末考试<br />2020年为小组pre  |                     | 85+   |      |
+| [计算机图形学](./Data-Science-and-Big-Data-Technology/CG.md)                                                           | 马华东                                 | 2个大作业，期末闭卷考试                  |                     | 70+   |      |
 | [自然语言处理](./Computer-Science-and-Technology/Natural-Language-Processing.md)                                       | 袁彩霞                                 | 期末考试；期末大作业                     | 1次期末大作业       | 90+   | 6    |
 
 ## 网络工程
@@ -59,15 +61,15 @@
 
 ## 数据科学与大数据技术
 
-| 课程名称                                                     | 任课教师  | 考核方式                                | 作业量                 | 成绩 | 时间 |
-| ------------------------------------------------------------ | --------- | --------------------------------------- | ---------------------- | ---- | ---- |
-| [Linux开发环境及应用](./Computer-Science-and-Technology/Linux.md) | 蒋砚军    | 无期中；期末闭卷考试                    | 4次实验                | 85+  | 6    |
-| [网络科学](./Data-Science-and-Big-Data-Technology/Network-Science.md) | 白婷 吴斌 | 随堂测验，期末考试<br />2020年为小组pre |                        | 85+  |      |
-| [计算机图形学](./Data-Science-and-Big-Data-Technology/CG.md) | 马华东    | 2个大作业，期末闭卷考试                 |                        | 70+  |      |
-| [数字图像处理](./Data-Science-and-Big-Data-Technology/Digital-Image-Processing.md) | 明安龙    | 3次小作业，期末3次实验和1个论文         | 作业难度较大，比较繁琐 | 70+  | 6    |
+| 课程名称                                                                                      | 任课教师  | 考核方式                                | 作业量                 | 成绩 | 时间 |
+| --------------------------------------------------------------------------------------------- | --------- | --------------------------------------- | ---------------------- | ---- | ---- |
+| [Linux开发环境及应用](./Computer-Science-and-Technology/Linux.md)                             | 蒋砚军    | 无期中；期末闭卷考试                    | 4次实验                | 85+  | 6    |
+| [网络科学](./Data-Science-and-Big-Data-Technology/Network-Science.md)                         | 白婷 吴斌 | 随堂测验，期末考试<br />2020年为小组pre |                        | 85+  |      |
+| [计算机图形学](./Data-Science-and-Big-Data-Technology/CG.md)                                  | 马华东    | 2个大作业，期末闭卷考试                 |                        | 70+  |      |
+| [数字图像处理](./Data-Science-and-Big-Data-Technology/Digital-Image-Processing.md)            | 明安龙    | 3次小作业，期末3次实验和1个论文         | 作业难度较大，比较繁琐 | 70+  | 6    |
 | [分布式计算与云计算](Data-Science-and-Big-Data-Technology/Distributed-and-cloud-computing.md) | 李劼      | 1次作业，期末论文                       | 作业难度很低           | 95+  | 2    |
-|                                                              |           |                                         |                        |      |      |
-|                                                              |           |                                         |                        |      |      |
+|                                                                                               |           |                                         |                        |      |      |
+|                                                                                               |           |                                         |                        |      |      |
 
 ## 软件工程
 
