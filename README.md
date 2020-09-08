@@ -2,9 +2,9 @@
 
 巴普特（北京邮电大学）计院（计算机学院）选修课指北 :point_up:
 
-发动巴普特开源力量 :muscle: ，方便同学们了解各专业选修课程 :smiley:
+学长学姐亲身感受，字字真切 :muscle: ，方便同学们了解各专业选修课程 :smiley:
 
-**欢迎同学们 :star:Star 和 :clap:PR**
+[本科编程作业参考索引 (awesome-bupt-scs)](https://github.com/brupst/awesome-bupt-scs)，**欢迎同学们 :star:Star 和 :clap:PR**
 
 #### :balloon: 添加新课程步骤：
 
