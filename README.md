@@ -68,7 +68,7 @@
 | [计算机图形学](./Data-Science-and-Big-Data-Technology/CG.md)                                  | 马华东    | 2个大作业，期末闭卷考试                 |                        | 70+  |      |
 | [数字图像处理](./Data-Science-and-Big-Data-Technology/Digital-Image-Processing.md)            | 明安龙    | 3次小作业，期末3次实验和1个论文         | 作业难度较大，比较繁琐 | 70+  | 6    |
 | [分布式计算与云计算](Data-Science-and-Big-Data-Technology/Distributed-and-cloud-computing.md) | 李劼      | 1次作业，期末论文                       | 作业难度很低           | 95+  | 2    |
-|                                                                                               |           |                                         |                        |      |      |
+| [流数据分析技术](./Data-Science-and-Big-Data-Technology/Streaming-Data-Analysis-Technologies.md) | 李静林  | 3次作业，无期中期末考试                                       |          作业量适中，难度适中，3次作业量差距不大              |   90+   |   3   |
 |                                                                                               |           |                                         |                        |      |      |
 
 ## 软件工程
