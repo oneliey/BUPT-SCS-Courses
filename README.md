@@ -70,7 +70,7 @@
 | [分布式计算与云计算](Data-Science-and-Big-Data-Technology/Distributed-and-cloud-computing.md) | 李劼      | 1次作业，期末论文                       | 作业难度很低           | 95+  | 2    |
 | [流数据分析技术](./Data-Science-and-Big-Data-Technology/Streaming-Data-Analysis-Technologies.md) | 李静林  | 3次作业，无期中期末考试                                       |          作业量适中，难度适中，3次作业量差距不大              |   90+   |   3   |
 | [数据可视化](./Data-Science-and-Big-Data-Technology/Data-Visualization.md)    | 林荣恒 | 1次大作业，无期中期末考试                                        |         作业量很小，难度很低         |  85+   |   1   |
-|                                                                                               |           |                                         |                        |      |      |
+| [多模态信息处理](./Data-Science-and-Big-Data-Technology/Multi-Modal-Information-Processing.md)    | 李睿凡 | 1次大作业，期中期末各一次pre，期末交报告 |     很开放的作业，作业量基本看个人追求             |  90+   |   3   |
 
 ## 软件工程
 
