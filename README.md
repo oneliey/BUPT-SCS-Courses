@@ -45,6 +45,8 @@
 | [网络科学](./Data-Science-and-Big-Data-Technology/Network-Science.md)                                                  | 随堂测验，期末考试<br />2020年为小组pre  |                     |
 | [计算机图形学](./Data-Science-and-Big-Data-Technology/CG.md)                                                           | 期末闭卷考试                             | 2个大作业           |
 | [自然语言处理](./Computer-Science-and-Technology/Natural-Language-Processing.md)                                       | 期末考试；期末大作业                     | 1次期末大作业       |
+| [多媒体技术](./Computer-Science-and-Technology/Multimedia-Technology.md)                                              | 无期中；点名<br />期末闭卷考试              | 无平时作业       |
+| [数字图像处理](./Computer-Science-and-Technology/Digital-Image-Processing.md)                                         | 期末开卷考试                              | 1~2次编程小作业      |
 
 ## 网络工程
 
