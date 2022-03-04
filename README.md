@@ -6,6 +6,11 @@
 
 [本科编程作业参考索引 (awesome-bupt-scs)](https://github.com/brupst/awesome-bupt-scs)，**欢迎同学们 :star:Star 和 :clap:PR**
 
+## Awesome
+[Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
+
+[Free Programming Books](https://ebookfoundation.github.io/free-programming-books)([中文版](https://github.com/justjavac/free-programming-books-zh_CN))
+
 #### :balloon: 添加新课程步骤：
 
 1. 请先参考[课程模板](./course-template.md)
