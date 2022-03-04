@@ -102,9 +102,10 @@
 5. [计算机学院培养方案19版（含实验班）](./Cultivation/19-SCS.pdf)
 
 ## 知名高校
-[THU-CST-Cracker](https://rekcarc-tsc-uht.readthedocs.io/en/latest/index.html)
-[Lib PKU](https://github.com/lib-pku/libpku)
-[SJTU-Courses](https://github.com/kxxwz/SJTU-Courses)
-[ZJU-Courses-Share](https://qsctech.github.io/zju-icicles/)
-[USTC-Course](https://github.com/USTC-Resource/USTC-Course)
+
+* [THU-CST-Cracker](https://rekcarc-tsc-uht.readthedocs.io/en/latest/index.html)
+* [Lib PKU](https://github.com/lib-pku/libpku)
+* [SJTU-Courses](https://github.com/kxxwz/SJTU-Courses)
+* [ZJU-Courses-Share](https://qsctech.github.io/zju-icicles/)
+* [USTC-Course](https://github.com/USTC-Resource/USTC-Course)
 
