@@ -29,13 +29,17 @@
 >* :books:**作业情况**：作业形式和频次
 >* :100:**成绩**：预估均分，仅供大致参考
 
-## 计算机科学与技术
-
+## 基础课与课程设计
 | 课程名称                                                                                                                | 考核方式                                 | 平时作业情况                 |
 | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------- |
 | [数学建模与模拟](./Computer-Science-and-Technology/Mathematical-Modeling.md)                                           | 无期中，期末大开卷；                       | 4次平时小作业                |
 | [面向对象程序设计实践 (C++)](./Computer-Science-and-Technology/Objected-Oriented-Programming(C++).md)                   | 无考试；<br />多次小作业 + 大作业         | 1次期末大作业                |
 | [面向对象程序设计实践 (Java)](./Computer-Science-and-Technology/Objected-Oriented-Programming(JAVA).md)                 | 期中考试；期末大作业                     | 1次期末大作业                |
+
+## 计算机科学与技术
+
+| 课程名称                                                                                                                | 考核方式                                 | 平时作业情况                 |
+| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------- |
 | [下一代Internet技术与协议](./Computer-Science-and-Technology/Technologies-and-Protocols-of-NGI.md)                     | 无期中；疫情写论文<br />往年期末开卷考      | 1次小作业，2次实验            |
 | [计算机网络技术实践](./Computer-Science-and-Technology/The-Practice-of-Computer-Network-Technology.md)                  | 无考试；实验+实验报告                    | 6次实验，2次重要             |
 | [Linux开发环境及应用](./Computer-Science-and-Technology/Linux.md)                                                      | 无期中；期末闭卷考试                     | 4次实验                      |
