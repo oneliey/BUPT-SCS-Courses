@@ -32,9 +32,9 @@
 ## 基础课与课程设计
 | 课程名称                                                                                                                | 考核方式                                 | 平时作业情况                 |
 | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------- |
-| [数学建模与模拟](./Computer-Science-and-Technology/Mathematical-Modeling.md)                                           | 无期中，期末大开卷；                       | 4次平时小作业                |
-| [面向对象程序设计实践 (C++)](./Computer-Science-and-Technology/Objected-Oriented-Programming(C++).md)                   | 无考试；<br />多次小作业 + 大作业         | 1次期末大作业                |
-| [面向对象程序设计实践 (Java)](./Computer-Science-and-Technology/Objected-Oriented-Programming(JAVA).md)                 | 期中考试；期末大作业                     | 1次期末大作业                |
+| [数学建模与模拟](./Basic-and-Practice-Courses/Mathematical-Modeling.md)                                           | 无期中，期末大开卷；                       | 4次平时小作业                |
+| [面向对象程序设计实践 (C++)](./Basic-and-Practice-Courses/Objected-Oriented-Programming(C++).md)                   | 无考试；<br />多次小作业 + 大作业         | 1次期末大作业                |
+| [面向对象程序设计实践 (Java)](./Basic-and-Practice-Courses/Objected-Oriented-Programming(JAVA).md)                 | 期中考试；期末大作业                     | 1次期末大作业                |
 
 ## 计算机科学与技术
 
