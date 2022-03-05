@@ -33,20 +33,20 @@
 | 课程名称                                                                                                                | 考核方式                                 | 平时作业情况                 |
 | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------- |
 | [数学建模与模拟](./Basic-and-Practice-Courses/Mathematical-Modeling.md)                                           | 无期中，期末大开卷；                       | 4次平时小作业                |
-| [运筹学](./Basic-and-Practice-Courses/Operational-Research.md)                                           |                        |                 |
+| [运筹学](./Basic-and-Practice-Courses/Operational-Research.md)                                           |       小作业，期末开卷考          |         考试较为简单
 | [组合数学](./Basic-and-Practice-Courses/Combinatorial-Mathematics.md)                                           |                        |                 |
-| [矩阵理论与方法](./Basic-and-Practice-Courses/Matrix-Theory-and-Method.md)                                           |                        |                 |
+| [矩阵理论与方法](./Basic-and-Practice-Courses/Matrix-Theory-and-Method.md)                                           |           小作业+期末闭卷考             |      考试略难一些         |
 | [概率论与随机过程](./Basic-and-Practice-Courses/Probability-Theory-and-Stochastic-Process.md)                                           |                        |                 |
 | [概率论与随机统计](./Basic-and-Practice-Courses/Probability-Theory-and-Mathematical-Statistics.md)                                           |                        |                 |
 | [面向对象程序设计实践 (C++)](./Basic-and-Practice-Courses/Objected-Oriented-Programming(C++).md)                   | 无考试；<br />多次小作业 + 大作业         | 1次期末大作业                |
 | [面向对象程序设计实践 (Java)](./Basic-and-Practice-Courses/Objected-Oriented-Programming(JAVA).md)                 | 期中考试；期末大作业                     | 1次期末大作业                |
 | [计算机组成原理课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-of-Computer-Organization-Principles.md)                                           |                        |                 |
 | [数字逻辑与数字系统课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-Digital-Logic-and-Digital-System.md)                                           |                                             |   
-| [数据结构课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-of-Data-Structures.md)                                           |   
-| [计算机网络课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-of-Computer-Network.md)                                           |   
+| [数据结构课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-of-Data-Structures.md)                                           | 大作业  | 大作业
+| [计算机网络课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-of-Computer-Network.md)                                           |  期末大作业 | 一次大作业，难度还好
 | [数据库系统原理课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-Database-System.md)                                           |   
 | [操作系统课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-Operating-System.md)                                           |   
-| [编译原理与技术课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-Compiler-Principle-and-Technology.md) 
+| [编译原理与技术课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-Compiler-Principle-and-Technology.md) | 期末大作业 | 期末大作业
 
 ## 计算机科学与技术
 
