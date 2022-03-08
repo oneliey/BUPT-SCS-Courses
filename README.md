@@ -42,7 +42,7 @@
 | [面向对象程序设计实践 (C++)](./Basic-and-Practice-Courses/Objected-Oriented-Programming(C++).md)                   | 无考试；<br />多次小作业 + 大作业 | 1次期末大作业                |
 | [面向对象程序设计实践 (Java)](./Basic-and-Practice-Courses/Objected-Oriented-Programming(JAVA).md)                 | 期中考试；期末大作业             | 1次期末大作业                |
 | [计算机组成原理课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-of-Computer-Organization-Principles.md)   |  期末大作业              |                 |
-| [数字逻辑与数字系统课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-Digital-Logic-and-Digital-System.md)   |                        |   
+| [数字逻辑与数字系统课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-Digital-Logic-and-Digital-System.md)   |  期末大作业              |       |
 | [数据结构课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-of-Data-Structures.md)                          | 期末大作业              | 大作业 |
 | [计算机网络课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-of-Computer-Network.md)                       |  期末大作业             | 一次大作业，难度还好 |
 | [数据库系统原理课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-Database-System.md)                        |   | | 
