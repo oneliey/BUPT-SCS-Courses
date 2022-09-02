@@ -91,6 +91,7 @@
 
 | 课程名称                                                                                         | 考核方式                                 | 作业量                                  |
 | ------------------------------------------------------------------------------------------------ | ---------------------------------------- | --------------------------------------- |
+| [数据科学数学基础](./Data-Science-and-Big-Data-Technology/Mathematical-Basis-of-Data-Science.md)                                | 无期中；期末闭卷考试                     | 3次作业                                 |
 | [Linux开发环境及应用](./Computer-Science-and-Technology/Linux.md)                                | 无期中；期末闭卷考试                     | 4次实验                                 |
 | [网络科学](./Data-Science-and-Big-Data-Technology/Network-Science.md)                            | 随堂测验，期末考试<br />2020年为小组pre  |                                         |
 | [计算机图形学](./Data-Science-and-Big-Data-Technology/CG.md)                                     | 2个大作业，期末闭卷考试                  |                                         |
