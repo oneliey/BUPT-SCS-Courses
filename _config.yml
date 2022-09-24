@@ -1,2 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-slate
 title: BUPT SCS 选课指北
+plugins:
+  - jemoji
