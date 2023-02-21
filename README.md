@@ -34,7 +34,7 @@
 | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------- |
 | [数学建模与模拟](./Basic-and-Practice-Courses/Mathematical-Modeling.md)                                           | 无期中，期末大开卷         | 4次平时小作业      |
 | [运筹学](./Basic-and-Practice-Courses/Operational-Research.md)                                                   | 小作业，期末开卷考         |  考试较为简单     |
-| [组合数学](./Basic-and-Practice-Courses/Combinatorial-Mathematics.md)                                            |                         |                 |
+| [组合数学](./Basic-and-Practice-Courses/Combinatorial-Mathematics.md)                                            |  无期中，期末闭卷考改编版原题 |  考试难度较大 |
 | [矩阵理论与方法](./Basic-and-Practice-Courses/Matrix-Theory-and-Method.md)                                         | 小作业+期末闭卷考         |  考试略难一些     |
 | [概率论与随机过程](./Basic-and-Practice-Courses/Probability-Theory-and-Stochastic-Process.md)                      |                        |                 |
 | [概率论与数理统计](./Basic-and-Practice-Courses/Probability-Theory-and-Mathematical-Statistics.md)                 |  期末闭卷考试            |                 |
