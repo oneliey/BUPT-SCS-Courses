@@ -4,7 +4,7 @@
 
 学长学姐亲身感受，方便同学们了解各专业选修课程
 
-[本科编程作业参考索引 (awesome-bupt-scs)](https://github.com/brupst/awesome-bupt-scs)，**欢迎同学们 :star:Star 和 :clap:PR**
+[本科编程作业参考索引 (awesome-bupt-scs)](https://github.com/brupst/awesome-bupt-scs)，**欢迎同学们 :star:Star 和 :clap: PR**
 
 ## Awesome
 
@@ -101,6 +101,7 @@
 | [流数据分析技术](./Data-Science-and-Big-Data-Technology/Streaming-Data-Analysis-Technologies.md) | 3次作业，无期中期末考试                  | 作业量适中，难度适中，3次作业量差距不大 |
 | [数据可视化](./Data-Science-and-Big-Data-Technology/Data-Visualization.md) | 1次大作业，无期中期末考试                | 作业量很小，难度很低                    |
 | [多模态信息处理](./Data-Science-and-Big-Data-Technology/Multi-Modal-Information-Processing.md) | 1次大作业，期中期末各一次pre，期末交报告 | 很开放的作业，作业量基本看个人追求      |
+| [通信原理](./Data-Science-and-Big-Data-Technology\Principles-Of-Communication.md)                | 平时作业40% ＋ 期末考试60%               | 2-3周一次作业                           |
 
 ## 软件工程
 
