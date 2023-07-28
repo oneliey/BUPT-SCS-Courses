@@ -21,12 +21,13 @@
 
 ---
 
-> 不同年级当年培养方案**不太相同**，存在某些课程**不在本年级**培养方案中，以培养方案为准`<br>`
+> 不同年级当年培养方案**不太相同**，存在某些课程**不在本年级**培养方案中，以培养方案为准
+> 
 > 分成不同专业汇总课程，不同专业可能有**重复课程**
 >
-> * :teacher:**任课教师**：同一班级的多个老师用逗号隔开，不同班级的老师用分号隔开
-> * 📃**考核方式**：建议注明期中期末，未指明则说明没有
-> * 📚**作业情况**：作业形式和频次
+> * **任课教师**：同一班级的多个老师用逗号隔开，不同班级的老师用分号隔开
+> * **考核方式**：建议注明期中期末，未指明则说明没有
+> * **作业情况**：作业形式和频次
 
 ## 基础课与课程设计
 
@@ -59,7 +60,7 @@
 | [Web开发技术](Computer-Science-and-Technology/Web-Application-Developing-Technology.md)                                | 无考试；期末大作业                       | 一篇技术论文和大作业                             |
 | [Python程序设计](./Computer-Science-and-Technology/Python-Programming.md)                                              | 无期中；期末大作业                       | 每周1次作业                                      |
 | [大数据技术基础](./Computer-Science-and-Technology/Basics-of-Big-Data-Technology.md)                                   | 无期中；期末大作业                       | 4次小实验，2个期末实验                           |
-| [机器学习](./Computer-Science-and-Technology/Machine-Learning.md)                                                      | 无期中；疫情无期末<br />往年期末闭卷考试 | 4次小测验，1页计算题，1次论文阅读笔记，1次大作业 |
+| [机器学习](./Computer-Science-and-Technology/Machine-Learning.md)                                                      | 无期中；疫情无期末<br />往年期末闭卷考试 | 4次小测验，<br />1次论文阅读，1次大作业 |
 | [数据仓库与数据挖掘](./Computer-Science-and-Technology/Data-Warehouse-and-Data-Mining.md)                              | 无考试；期末论文报告                     | 无平时作业                                       |
 | [信息与知识获取](./Computer-Science-and-Technology/Information-and-Knowledge-Acquisition.md)                           | 无考试；3次作业+报告                     | 3次作业                                          |
 | [网络科学](./Data-Science-and-Big-Data-Technology/Network-Science.md)                                                  | 随堂测验，期末考试<br />2020年为小组pre  | 无作业                                           |
@@ -84,8 +85,8 @@
 | [web后端开发技术](./Network-Engineering/Web-back-end-development-techniques.md)                     | 小作业，大作业（及原本应有的小测） | 可以接受，不算很多                         |
 | [web前端开发技术](./Network-Engineering/Web-front-end-development.md)                               | 5次小作业和1次大作业               | 可以接受，不算很多                         |
 | ios开发技术                                                                                      | 小论文                             | 很水，但是很爽，你懂的                     |
-| 嵌入式系统（网工必修,计科选修）                                                                  | 作业20，实验40，期末考试40         | 实验比较复杂，期末考试比较难，但老师会调分 |
-| [web开发技术基础](./Network-Engineering/Development-Techniques-for-Web.md)（网工必修,其他专业选修） | 小作业，大作业<br />期末开卷考     | 可以接受，不算很多                         |
+| 嵌入式系统 <br />（网工必修,计科选修）                                                                  | 作业20，实验40，期末考试40         | 实验比较复杂，期末考试比较难，但老师会调分 |
+| [web开发技术基础](./Network-Engineering/Development-Techniques-for-Web.md) <br />（网工必修,其他专业选修） | 小作业，大作业<br />期末开卷考     | 可以接受，不算很多                         |
 
 ## 数据科学与大数据技术
 
