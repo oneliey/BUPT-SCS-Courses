@@ -75,6 +75,7 @@
 | [并行计算与GPU编程](./Computer-Science-and-Technology/Parallel-Computing-and-GPU-Programming.md)                       | 无考试；期末大作业                       | 两次小作业，期末大作业                           |
 | [数字图像处理](./Computer-Science-and-Technology/Digital-Image-Processing.md)                                          | 期末开卷考试                             | 1~2次编程小作业                                  |
 | [量子计算导论](./Computer-Science-and-Technology/Introduction-of-Quantum-Computation.md)                               | 期中论文翻译；<br />期末写论文           | 两次作业                                         |
+| [无线传感器网络](./Computer-Science-and-Technology/Wireless-Sensor-Network.md)                                          | 无考试；一次实验验收和课程报告            | 无作业                                         |
 
 ## 网络工程
 
