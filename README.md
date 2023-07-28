@@ -103,6 +103,7 @@
 | [多模态信息处理](./Data-Science-and-Big-Data-Technology/Multi-Modal-Information-Processing.md)   | 1次大作业，期中期末各一次pre，期末交报告 | 很开放的作业，作业量基本看个人追求      |
 | [通信原理](./Data-Science-and-Big-Data-Technology\Principles-Of-Communication.md)                | 平时作业40% ＋ 期末考试60%               | 2-3周一次作业                           |
 
+
 ## 软件工程
 
 | 课程名称                                                                              | 任课教师 | 考核方式                       | 作业量                         |
