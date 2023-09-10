@@ -10,7 +10,9 @@
 
 [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 
-[Free Programming Books](https://ebookfoundation.github.io/free-programming-books)([中文版](https://github.com/justjavac/free-programming-books-zh_CN))
+[CS DIY（CS自学指南）](https://csdiy.wiki)
+
+[Free Programming Books](https://ebookfoundation.github.io/free-programming-books) ([中文版](https://github.com/justjavac/free-programming-books-zh_CN))
 
 #### 🎈 添加新课程步骤
 
