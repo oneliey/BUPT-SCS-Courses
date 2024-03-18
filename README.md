@@ -68,6 +68,7 @@
 | [网络科学](./Data-Science-and-Big-Data-Technology/Network-Science.md)                                                  | 随堂测验，期末考试<br />2020年为小组pre  | 无作业                                           |
 | [信息与网络安全](./Computer-Science-and-Technology/Information-and-Network-Security.md)                                | 无考试，期末开卷大作业                   | 3次作业                                          |
 | [人工智能原理](./Computer-Science-and-Technology/Principles-of-Artificial-Intelligence.md)                             | 无期中；<br />期末开卷考试+1次实验       | 1次小测，无平时作业                              |
+| [网络存储技术](./Computer-Science-and-Technology/Network-Storage-Technologies.md) | 无考试；平时+期末作业 | 文字作业 |
 | [程序设计实践](./Computer-Science-and-Technology/The-Practice-of-Programming.md)                                       | 无期中；期末大作业                       | 无平时作业                                       |
 | [服务科学与服务工程概论](./Computer-Science-and-Technology/Introduction-To-Service-Science-And-Service-Engineering.md) | 无期中；点名<br />期末论文论文+开题报告  | 无平时作业                                       |
 | [物联网技术](./Computer-Science-and-Technology/IoT-Technology.md)                                                      | 无考试；期末大作业                       | 2次平时作业；2次课上实验                         |
