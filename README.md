@@ -2,9 +2,9 @@
 
 巴普特（北京邮电大学）计院（计算机学院）选修课指北 ☝️
 
-学长学姐亲身感受，方便同学们了解各专业选修课程
+方便同学们了解各专业选修课程
 
-[本科编程作业参考索引 (awesome-bupt-scs)](https://github.com/brupst/awesome-bupt-scs)，**欢迎同学们 ⭐️Star 和 👏 PR**
+[本科编程作业参考索引 (awesome-bupt-scs)](https://github.com/brupst/awesome-bupt-scs)，欢迎同学们 [**PR**](https://github.com/oneliey/BUPT-SCS-Courses/pulls) 👏 
 
 ## Awesome
 
@@ -14,7 +14,7 @@
 
 [Free Programming Books](https://ebookfoundation.github.io/free-programming-books) ([中文版](https://github.com/justjavac/free-programming-books-zh_CN))
 
-#### 🎈 添加新课程步骤
+## 🎈 添加新课程步骤
 
 1. 请先参考[课程模板](./course-template.md)
 2. 把模板**重命名为英文**后（请注意使用 '-' 代替空格），放在相应**专业的文件夹**下
