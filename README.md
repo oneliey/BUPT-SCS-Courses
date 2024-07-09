@@ -55,14 +55,14 @@
 
 | 课程名称                                                                                                            | 考核方式                                 | 平时作业情况                                     |
 | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------ |
-| [下一代Internet技术与协议](./Computer-Science-and-Technology/Technologies-and-Protocols-of-NGI.md)                     | 无期中；疫情写论文<br />往年期末开卷考   | 1次小作业，2次实验                               |
+| [下一代Internet技术与协议](./Computer-Science-and-Technology/Technologies-and-Protocols-of-NGI.md)                     | 无期中；疫情写论文<br />往年期末开卷考或论文   | 1次小作业，2次实验                               |
 | [计算机网络技术实践](./Computer-Science-and-Technology/The-Practice-of-Computer-Network-Technology.md)                 | 无考试；实验+实验报告                    | 6次实验，2次重要                                 |
 | [Linux开发环境及应用](./Computer-Science-and-Technology/Linux.md)                                                      | 无期中；期末闭卷考试                     | 4次实验                                          |
 | [移动互联网技术及应用](./Computer-Science-and-Technology/Mobile-Internet-Technology-and-Application.md)                | 无期中；期末大作业                       | 7次编程作业                                      |
 | [Web开发技术](Computer-Science-and-Technology/Web-Application-Developing-Technology.md)                                | 无考试；期末大作业                       | 一篇技术论文和大作业                             |
 | [Python程序设计](./Computer-Science-and-Technology/Python-Programming.md)                                              | 无期中；期末大作业                       | 每周1次作业                                      |
 | [大数据技术基础](./Computer-Science-and-Technology/Basics-of-Big-Data-Technology.md)                                   | 无期中；期末大作业                       | 4次小实验，2个期末实验                           |
-| [机器学习](./Computer-Science-and-Technology/Machine-Learning.md)                                                      | 无期中；疫情无期末<br />往年期末闭卷考试 | 4次小测验，<br />1次论文阅读，1次大作业 |
+| [机器学习](./Computer-Science-and-Technology/Machine-Learning.md)                                                      | 无期中；期末多个作业 | 4次课上测验，1道书面答题<br />1次论文阅读，1次大作业 |
 | [数据仓库与数据挖掘](./Computer-Science-and-Technology/Data-Warehouse-and-Data-Mining.md)                              | 无考试；期末论文报告                     | 无平时作业                                       |
 | [信息与知识获取](./Computer-Science-and-Technology/Information-and-Knowledge-Acquisition.md)                           | 无考试；3次作业+报告                     | 3次作业                                          |
 | [网络科学](./Data-Science-and-Big-Data-Technology/Network-Science.md)                                                  | 随堂测验，期末考试<br />2020年为小组pre  | 无作业                                           |
