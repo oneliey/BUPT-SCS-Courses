@@ -39,7 +39,7 @@
 | [运筹学](./Basic-and-Practice-Courses/Operational-Research.md)                                                     | 小作业，期末开卷考                | 考试较为简单         |
 | [组合数学](./Basic-and-Practice-Courses/Combinatorial-Mathematics.md)                                              | 无期中，期末闭卷考改编版原题      | 每周一次作业，略难   |
 | [矩阵理论与方法](./Basic-and-Practice-Courses/Matrix-Theory-and-Method.md)                                         | 小作业+期末闭卷考                 | 考试略难一些         |
-| [概率论与随机过程](./Basic-and-Practice-Courses/Probability-Theory-and-Stochastic-Process.md)                      |                                   |                      |
+| [概率论与随机过程](./Basic-and-Practice-Courses/Probability-Theory-and-Stochastic-Process.md)                      | 期中论文+期末闭卷                | 课堂作业很难          |
 | [概率论与数理统计](./Basic-and-Practice-Courses/Probability-Theory-and-Mathematical-Statistics.md)                 | 期末闭卷考试                      |                      |
 | [面向对象程序设计实践 (C++)](./Basic-and-Practice-Courses/Objected-Oriented-Programming(C++).md)                   | 无考试；<br />多次小作业 + 大作业 | 1次期末大作业        |
 | [面向对象程序设计实践 (Java)](./Basic-and-Practice-Courses/Objected-Oriented-Programming(JAVA).md)                 | 期中考试；期末大作业              | 1次期末大作业        |
