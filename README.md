@@ -42,7 +42,7 @@
 | [概率论与随机过程](./Basic-and-Practice-Courses/Probability-Theory-and-Stochastic-Process.md)                      | 期中论文+期末闭卷                | 课堂作业很难          |
 | [概率论与数理统计](./Basic-and-Practice-Courses/Probability-Theory-and-Mathematical-Statistics.md)                 | 期末闭卷考试                      |                      |
 | [面向对象程序设计实践 (C++)](./Basic-and-Practice-Courses/Objected-Oriented-Programming(C++).md)                   | 无考试；<br />多次小作业 + 大作业 | 1次期末大作业        |
-| [面向对象程序设计实践 (Java)](./Basic-and-Practice-Courses/Objected-Oriented-Programming(JAVA).md)                 | 期中考试；期末大作业              | 1次期末大作业        |
+| [面向对象程序设计实践 (Java)](./Basic-and-Practice-Courses/Objected-Oriented-Programming(JAVA).md)                 | 小作业+oj+期末大作业              | 1次期末大作业        |
 | [计算机组成原理课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-of-Computer-Organization-Principles.md)  | 期末大作业                        |                      |
 | [数字逻辑与数字系统课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-Digital-Logic-and-Digital-System.md) | 期末大作业                        |                      |
 | [数据结构课程设计](./Basic-and-Practice-Courses/Curriculum-Practice-of-Data-Structures.md)                         | 期末大作业                        | 大作业               |
