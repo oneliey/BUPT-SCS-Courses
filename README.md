@@ -14,7 +14,7 @@
 
 [Free Programming Books](https://ebookfoundation.github.io/free-programming-books) ([中文版](https://github.com/justjavac/free-programming-books-zh_CN))
 
-## 🎈 添加新课程步骤
+## 🎈 添加新课程步骤(这里需要加入一个login功能）
 
 1. 请先参考[课程模板](./course-template.md)
 2. 把模板**重命名为英文**后（请注意使用 '-' 代替空格），放在相应**专业的文件夹**下
